@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Open Positions Landing Page
 
 A modern, fully responsive landing page that displays open job positions, team members, and a hiring call-to-action. Built with **React** and **Tailwind CSS**.
@@ -44,3 +45,7 @@ src/
 ├── index.css
 └── main.jsx
 ```
+=======
+# landingPage
+A responsive landing page showcasing open positions, team members, and a hiring CTA, built with React and Tailwind CSS.
+>>>>>>> 20fb57757fe831c45097b3dfe1a6812276d558ad
