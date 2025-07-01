@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Open Positions Landing Page
 
 A modern, fully responsive landing page that displays open job positions, team members, and a hiring call-to-action. Built with **React** and **Tailwind CSS**.
@@ -19,11 +18,9 @@ A modern, fully responsive landing page that displays open job positions, team m
 
 ## 📸 Screenshots
 
-| Desktop                                  | Mobile                                 |
-| ---------------------------------------- | -------------------------------------- |
-| ![Desktop View](screenshots/desktop.png) | ![Mobile View](screenshots/mobile.png) |
-
-> Add your screenshots in the `screenshots/` folder.
+| Desktop                                       | Mobile                                      |
+| --------------------------------------------- | ------------------------------------------- |
+| ![Desktop View](./src/assets/desktopView.png) | ![Mobile View](./src/assets/mobileView.png) |
 
 ## 🧪 Local Setup
 
@@ -31,21 +28,23 @@ A modern, fully responsive landing page that displays open job positions, team m
 git clone https://github.com/yourusername/open-positions-landing.git
 cd open-positions-landing
 npm install
-npm run dev  # or npm start
+npm run dev  
 📂 Folder Structure
 css
 Copy
 Edit
 src/
 ├── assets/
-│   └── [team images]
+│   └── images in png form
 ├── components/
+    └── HeroSection.jsx
+    └── OpenPositions.jsx
 │   └── TeamMember.jsx
 ├── App.jsx
 ├── index.css
 └── main.jsx
 ```
-=======
+
 # landingPage
+
 A responsive landing page showcasing open positions, team members, and a hiring CTA, built with React and Tailwind CSS.
->>>>>>> 20fb57757fe831c45097b3dfe1a6812276d558ad

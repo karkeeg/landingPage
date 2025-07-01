@@ -1,7 +1,6 @@
-import React from "react";
 import team from "../assets/teamimage.png";
 import { FaArrowRight } from "react-icons/fa";
-// Ensure this path is correct
+
 const HeroSection = () => {
   return (
     <div className="relative min-h-screen bg-gradient-to-b from-black via-gray-900 to-gray-800 text-white overflow-hidden">
@@ -32,7 +31,6 @@ const HeroSection = () => {
           Apply Now <FaArrowRight />
         </button>
 
-        {/* Image */}
         <div className="mt-12 max-w-4xl w-full px-4">
           <img
             src={team}
